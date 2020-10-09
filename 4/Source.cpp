@@ -4,7 +4,7 @@ void main(void) {
 	int N;
 	double x = 1;
 
-	printf_s("Vvedite argumenty N \n");
+	printf_s("Vvedite N \n");
 	scanf_s("%d", &N);
 
 	for (int i = 1; i <= N; i++) {
