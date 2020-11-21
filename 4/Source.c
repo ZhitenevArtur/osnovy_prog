@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(void) {
-	int N;
+	unsigned int N;
 	double x = 1;
 
 	printf_s("Vvedite N \n");
