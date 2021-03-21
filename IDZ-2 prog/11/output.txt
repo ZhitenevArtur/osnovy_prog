@@ -1,0 +1,6 @@
+Positive = 18 
+Negative = 1 
+Null = 1 
+Average = 8.950000 
+Maximum = 19[4][2] 
+Minimum = -1[4][3]
